@@ -1,5 +1,5 @@
 import datetime
-import rando
+import random
 
 def generate_daily_report():
     today = datetime.date.today()
